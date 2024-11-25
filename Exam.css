@@ -58,14 +58,14 @@ td,th {
 	}
 
 #looks {
-	background-color: purple;
+	background-color: #9ee6e0;
 	float: left;
 	width: 300px;
 	padding:1em;
 	margin:0px 1em 1em 0px;
 }
 
-.heading {background-color:pink;
+.heading {background-color:rgb(241, 175, 186);
 padding:.75em;
 text-align:center;}
 
@@ -79,5 +79,5 @@ margin:0px auto;
 text-align:right;
 float:right;
 font-style:italic;
-background-color: yellowgreen;
+background-color: rgb(209, 236, 157);
 }
